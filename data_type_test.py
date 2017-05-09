@@ -1,3 +1,7 @@
+import unittest
+from data_type import data_type 
+from unittest import TestCase
+
 class DataTypeTestCase(TestCase):
 
   def test_none_type(self):
