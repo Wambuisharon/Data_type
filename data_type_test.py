@@ -24,3 +24,5 @@ class DataTypeTestCase(TestCase):
   
   def test_str_type(self):
     self.assertEqual(6, data_type('andela'))
+  if __name__== "__main__":
+    unittest.main()   

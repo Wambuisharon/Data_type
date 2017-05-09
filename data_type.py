@@ -20,7 +20,7 @@ def data_type(n):
         return n
 
     else:
-        return 'no value'def data_type(n):
+        return 'no value'
     if type(n) == int:
         if n < 100:
             return 'less than 100'
